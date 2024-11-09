@@ -1,0 +1,17 @@
+body{
+	background-color:yellow
+	
+	font-family:arial,sans-serif;
+	
+}
+
+footer{
+    background-color:blue;
+
+    color:white;
+	text-align:center
+	padding: 15px
+	position:relative
+	bottom:0
+	width: 100%
+}	
